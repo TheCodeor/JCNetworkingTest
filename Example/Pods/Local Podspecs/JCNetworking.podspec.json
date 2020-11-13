@@ -1,0 +1,22 @@
+{
+  "name": "JCNetworking",
+  "version": "0.1.0",
+  "summary": "A short description of JCNetworking.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/447690182@qq.com/JCNetworking",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "447690182@qq.com": "447690182@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/447690182@qq.com/JCNetworking.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "JCNetworking/Classes/**/*"
+}
